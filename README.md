@@ -1,3 +1,3 @@
-# Java Project
-# Multiplication Table Game
-# import librarys in lib folder
+# Multiplication Table Game With Java
+# import librarys in lib folder to run without problems
+# YTU OOP Course Project
